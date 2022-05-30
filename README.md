@@ -1,3 +1,1 @@
-- 👋 Hey. Welcome to my Offical Github Account
-- 🦉 Of you dont know me I am FiveM / Minecraft Server Developer.
-- 🍇 Curretly am working on big project , that will come out soon.
+[![trophy](https://github-profile-trophy.vercel.app/?GorancekCodes=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
