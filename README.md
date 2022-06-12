@@ -6,4 +6,4 @@
  
  🍇 Fact : That I dont know anything ;) 🍇
  
- 🥕 You can get in contact with me on my Discord ; Gorancek#5215 🥕
+ 🥕 You can get in contact with me on my Discord ; GorancekCodes#8711 🥕
