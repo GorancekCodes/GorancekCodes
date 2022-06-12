@@ -1,9 +1,30 @@
- 👋 Hello, welcome to my Github Profile 👋
- 
- 🥳 Of you dont know me I am FiveM and Minecraft Developer 🥳
- 
- 🤗 I usually chill and make some public scripts or plugins 🤗 
- 
- 🍇 Fact : That I dont know anything ;) 🍇
- 
- 🥕 You can get in contact with me on my Discord ; GorancekCodes#8711 🥕
+## 👋 Hello! 👋
+
+* Hey , why are you checking my profile?
+* I guess you are here to see what am doin?
+* Im just FiveM / Minecraft developer or Server Owner.
+* Of you need any support add me on discord GorancekCodes#8711
+
+## 👌 Active Projects 👌
+
+* Am currently working on FiveM server.
+* And doing some scripts becuse why not?
+
+## 💻 Compunter 💻
+
+* Intel Core i3 8100
+* G.SKILL Agios 8GB
+* Maxtor 260GB SSD
+* Segate Barracuda 1TB
+* Asus RX 550 2GB
+* HyperX Core Alpha
+* Razer Ornata V2
+* Redragon Nameleon 2
+* Genesis Radium 300 XLR
+* Dual Samsung Monitors
+
+## 📞 Get In Contact 📞
+
+* For any reason that you need me you can add me on my discord GorancekCodes#8711
+* You can ask anything and I will try to answer you as quickly as i can <3
+
