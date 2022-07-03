@@ -18,7 +18,7 @@
 * Segate Barracuda 1TB
 * Asus RX 550 2GB
 * Corsair HS70 PRO
-* Still Series Apex 3
+* Stellseries Apex 3
 * Redragon Nameleon 2
 * Genesis Radium 300 XLR
 * Dual Samsung Monitors
