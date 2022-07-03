@@ -10,15 +10,15 @@
 * Am currently working on FiveM server.
 * And doing some scripts becuse why not?
 
-## 💻 Compunter 💻
+## 💻 Setus 💻
 
 * Intel Core i3 8100
 * G.SKILL Agios 8GB
 * Maxtor 260GB SSD
 * Segate Barracuda 1TB
 * Asus RX 550 2GB
-* HyperX Core Alpha
-* Razer Ornata V2
+* Corsair HS70 PRO
+* Still Series Apex 3
 * Redragon Nameleon 2
 * Genesis Radium 300 XLR
 * Dual Samsung Monitors
