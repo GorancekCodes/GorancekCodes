@@ -10,7 +10,7 @@
 * Am currently working on FiveM server.
 * And doing some scripts becuse why not?
 
-## 💻 Setus 💻
+## 💻 Setup 💻
 
 * Intel Core i3 8100
 * G.SKILL Agios 8GB
