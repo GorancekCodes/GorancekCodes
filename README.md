@@ -2,7 +2,7 @@
 
 ## 💻 Setup 💻
 
-* Intel Core i5 660K
+* Intel Core i5 6600K 4.6Ghz (Overclocked)
 * G.SKILL Ripjaws 16GB DDR4
 * Samsung 260GB NVM SSD
 * Segate Barracuda 1TB X2
