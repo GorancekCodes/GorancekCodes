@@ -7,8 +7,8 @@
 * Samsung 260GB NVM SSD
 * Segate Barracuda 1TB X2
 * MSI GEFORCE GTX 1070 OC 8GB
-* Corsair HS70 PRO
-* Stellseries Apex 3
+* HyperX Cloud II
+* HyperX Alloy FPS Pro
 * Redragon Nameleon 2
 * Genesis Radium 300 XLR
 * AOC Gaming - 24G2SPU/BK
